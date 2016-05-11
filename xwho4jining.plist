@@ -19,11 +19,11 @@
                     <key>bundle-identifier</key>
                     <string>com.hztianque.XWHO</string>
                     <key>bundle-version</key>
-                    <string>1.9</string>
+                    <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>天阙人</string>
+                    <string>太平通讯录</string>
                 </dict>
             </dict>
         </array>
