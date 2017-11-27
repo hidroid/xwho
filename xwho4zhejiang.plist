@@ -6,7 +6,7 @@
     <dict>
         <key>NSExceptionDomains</key>
         <dict>
-            <key>babyjon.com</key>
+            <key>www.babyjon.com</key>
             <dict>
                 <key>NSIncludesSubdomains</key>
                 <true/>
